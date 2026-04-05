@@ -1,8 +1,4 @@
----
 
-### **2. IPA Project README (RISC-V Processor)**
-
-```markdown
 # 64-bit Pipelined RISC-V Processor in Verilog
 
 ## Overview
